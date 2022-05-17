@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Pet dog",
+      "day": "Monday",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Go to school",
+      "day": "Wednesday",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "Find cat",
+      "day": "Next Week",
+      "reminder": "false",
+      "id": 4
+    }
+  ]
+}
